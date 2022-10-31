@@ -107,7 +107,7 @@ Children:
     DataType: Size
     ModellingRule: Optional
     Value: 400.0
-  - Name: Label
+  - Name: Label2
     Id: g=6303409b9d37a49e802d3ee8e043dee5
     Type: Label
     Children:
